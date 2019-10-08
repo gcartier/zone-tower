@@ -1,0 +1,18 @@
+;;;==============
+;;;  JazzScheme
+;;;==============
+;;;
+;;;; Zone
+;;;
+
+
+(data jazz
+
+
+(version 1 4)
+(import world.data
+        world.generation)
+
+
+(form
+  (<Zone> missile-behavior: absorb start-time: night start-skybox: "earth" start-mode: first-person start-distance: 6.222222222222219 seed: -7299418211637440866 first-time?: #f)))
